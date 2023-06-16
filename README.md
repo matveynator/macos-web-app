@@ -11,4 +11,8 @@ Add your app files to "static" directory and it will be embedded to to binary an
   --port int
     	web server port (default 8765)
 ```
+### Example binary app:
+
+- Download example app [↓ web-app-MacOSX.zip](http://files.matveynator.ru/macos-web-app/web-app-MacOSX.zip)
+
 
